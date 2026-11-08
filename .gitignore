@@ -1,0 +1,17 @@
+.DS_Store
+*.apk
+*.aab
+*.aar
+*.jar
+*.so
+*.dylib
+*.keystore
+*.jks
+*.p12
+*.mobileprovision
+.env
+.env.*
+!*.example
+manifestPlaceholders.json
+device-qa.json
+private/

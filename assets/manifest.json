@@ -1,0 +1,17 @@
+{
+  "source": "Nexus 腾讯地图与导航 1.0.1 公开物料",
+  "assets": [
+    {
+      "path": "assets/android-map.png",
+      "sha256": "c20b080758c26322202485a971925df2a93815655e166bcbfe496f933a3b89cd"
+    },
+    {
+      "path": "assets/android-simulation.png",
+      "sha256": "6bf5fae0222800aea419cbe06943876fea920324265c2880195014f48aed1a5c"
+    },
+    {
+      "path": "assets/cover.png",
+      "sha256": "c3f594547e6b5f40c4c6370386fcdee9e571e1a8b3b5b9be8710a0fcb77b09d1"
+    }
+  ]
+}
